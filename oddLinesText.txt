@@ -1,0 +1,4 @@
+C# (pronounced as see sharp) is a multi-paradigm programming language encompassing strong typing, 
+and component-oriented programming disciplines. It was developed by Microsoft within its .NET 
+C# is one of the programming languages designed for the Common Language Infrastructure.
+Its development team is led by Anders Hejlsberg. The most recent version is C# 5.0, which was released 
